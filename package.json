@@ -1,7 +1,8 @@
 {
-  "name": "test",
+  "name": "product-dashboard",
+  "description": "A modern Product Dashboard built with React, TypeScript, TailwindCSS, and shadcn/ui",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
